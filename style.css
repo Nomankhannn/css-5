@@ -1,0 +1,31 @@
+body{
+    background-color: lightslategray;
+}
+.parent{
+    border: 1px solid black;
+    height: 500px;
+    width: 550px;
+    background-color: aliceblue;
+    border-radius: 7px;
+    box-shadow: 5px 5px 20px black;
+    margin: 10px 400px 0px 0px;
+    padding: 10px;
+    position: absolute;
+}
+p,h2{
+    display: inline
+}
+.price{
+    color: black;
+    margin: 20px 5px 10px 5px;
+}
+.child3{
+   display: flex;
+   gap: 480px;
+   opacity: 0.36x;
+   padding: 0px 5px 0px 5px;
+}
+.child2{
+    margin: 10px;
+}
+
